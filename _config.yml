@@ -15,7 +15,7 @@ author:
   name:           'Yasin Özel'
   url:            https://twitter.com/yasin_ozel
 
-paginate:         5
+paginate:         10
 
 gems:
   - jekyll-gist
